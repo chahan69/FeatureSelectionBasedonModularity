@@ -6,7 +6,6 @@
 
 Numpyまでしか使っていない+forループを$N_F$回回しているのでそこまで早くないです
 
-'''
-  obj = fsbm.fsbm(data) #コンストラクタ data -> list or np.array not including header
-  ranking = obj.ranking #-> scores of each features
-'''
+    obj = fsbm.fsbm(data) #コンストラクタ data -> list or np.array not including header
+    ranking = obj.ranking #-> scores of each features
+
