@@ -1,6 +1,6 @@
 # Feature Selection Based on Modularity
 
-## 行列を受け取って特徴のスコアのリストを返します
+行列を受け取って特徴のスコアのリストを返します
 
 卒業研究のアルゴリズムをPythonで実装したものになります．
 
